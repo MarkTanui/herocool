@@ -1,5 +1,7 @@
 # CREATING THE Heroku Clone AKA HeroCool
 
+:raised_hand: Hoping that you're okay. If not, DM for a playlist:heart:
+
 ## Pulumi CLI
 First, make sure you have the **Pulumi CLI** installed. The way to install is different depending on your operating system.
 If you have MacsOS and Homebrew, you can use the command `brew install pulumi`.
